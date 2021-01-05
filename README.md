@@ -12,5 +12,5 @@ word vectorized are devided into two group which is tf-idf and bert encoder as b
 for the the model that we are using are linear regression which come in a result of 33%.
 as for bert with a small modification adding BertModel(pretrain) - dropout - linear to do the multi-label classification and got 40% for the score
 
-## Conclution
-Tgive an improvement we can froup the genres which are identical into one to make the dataset even simpler
+## Conclusion
+To give an improvement we can group the genres which are identical into one to make the dataset even simpler
